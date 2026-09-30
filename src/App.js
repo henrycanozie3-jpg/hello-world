@@ -6,7 +6,7 @@ import Hello from './components/Hello';
 function App() {
   return (
     <div className="App">
-   <Greet name="Bruce" heroname="Batman">This is children props</Greet>
+  {/* <Greet name="Bruce" heroname="Batman">This is children props</Greet>
     <Greet name="Tony Stark" heroname="Iron Man"/>
      <Greet name="Peter Parker" heroname="Spider-Man"/>
     <Welcome  name="Bruce" heroname="Batman" />
